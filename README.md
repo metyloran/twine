@@ -21,12 +21,14 @@
   color: white;
   padding: 10px;
   margin-top: 10px;
-  border-radius
+  border-radius: 10px;
   position: fixed;
   bottom: 20px;
   left: 50%;
-  transform: translateX(-50%)
-    width: 
+  transform: translateX(-50%);
+   width: 100%;
+  max-width: 880px;
+  z-index: 100;
 }
    ```
 
